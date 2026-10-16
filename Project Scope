@@ -1,0 +1,68 @@
+1. Project Title
+
+University Lost and Found Management System
+
+2. Project Description
+
+The University Lost and Found Management System is a system designed to help students and staff at Taibah University report lost and found items. It provides one place where users can view reported items and search for their missing belongings. The system aims to make finding lost items easier and more organized.
+
+3. Project Objectives
+
+1. To develop a system for reporting lost and found items.
+2. To allow users to view and search for reported items.
+3. To store item information in an organized way.
+4. To make it easier for students and staff to find their missing belongings.
+5. To help the administrator manage item reports.
+
+4. Project Deliverables
+
+• A working software system.
+• Source code.
+• A database for storing item information.
+• Project documentation.
+• A user guide.
+• A final project presentation.
+
+5. In-Scope Items
+
+The system will include:
+
+• User registration and login.
+• Reporting lost items.
+• Reporting found items.
+• Viewing and searching for reported items.
+• Displaying item details.
+• Managing item reports by the administrator.
+
+6. Out-of-Scope Items
+
+The following features are not included in the current project scope:
+
+• A mobile application.
+• GPS tracking of lost items.
+• AI-based image recognition.
+• Integration with external university systems.
+• Automatic identification of item owners.
+
+7. Stakeholders
+
+• Project Team: Students who design and develop the system.
+• Course Instructor: Supervises the project and evaluates its results.
+• Students and University Staff: Users who report or search for lost items.
+• System Administrator: Manages reports and system information.
+
+8. Constraints and Assumptions
+
+Constraints
+
+• The project must be completed within the course deadline.
+• The project must follow the course requirements.
+• The team has limited time and resources.
+• The system must use the technologies selected by the project team.
+
+Assumptions
+
+• Users have access to a computer or a device with a web browser.
+• Users will provide correct information about lost and found items.
+• The university community will use the system to report and search for items.
+• The administrator will review and manage item reports.
